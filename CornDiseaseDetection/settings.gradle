@@ -1,0 +1,2 @@
+rootProject.name = "Corn Disease Detection"
+include ':app'
