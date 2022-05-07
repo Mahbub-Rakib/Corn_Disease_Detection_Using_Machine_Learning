@@ -1,0 +1,2 @@
+# Corn_Disease_Detection_Using_Machine_Learning
+This project was created for Junior Design project at my university. A small project in which I used CNN to train on Corn Leaves for disease classification and then launched it as an Android application. To select our unique leaf data, we used the PlantVillage dataset.The model was then saved as a TFlite model and deployed to an Android app created Android Native.
